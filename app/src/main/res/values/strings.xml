@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="电量音乐"/>
+    <string name="str_start">正在播放中...</string>
+    <string name="str_close">播放已停止...</string>
+    <string name="str_pause">暂停播放中...</string>
+    <string name="str_OnCompletionListener">完成了</string>
+    <string name="str_OnErrorListener">出错了</string>
+    <string name="str_dialog_title">系统信息</string>
+</resources>
